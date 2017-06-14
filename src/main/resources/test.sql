@@ -4,10 +4,8 @@ insert into User (usr_login, usr_first_name, usr_last_name, usr_role, usr_email,
 select	'GAMST', 'Anton', 'Bessmeltsev', 'U', 'gamst9@gmail.com', 'qwerty', 1000.00, '2017-01-01';
 
 
-/*
 insert into User (usr_login, usr_first_name, usr_last_name, usr_role, usr_email, usr_password, usr_okv, usr_login_dte)
 select	'admin', 'admin', 'admin', 'A', 'admin@betandlose.com', 'admin', 0.00, '2017-03-31';
-*/
 
 
 insert into Kind_Sport (ksp_sport)
