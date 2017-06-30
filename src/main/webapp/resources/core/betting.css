@@ -1,0 +1,34 @@
+.top-buffer {
+    margin-top:20px;
+}
+
+.text-centred {
+    text-align: center;
+}
+
+.hidden {
+    display: none;
+}
+
+
+ul.navbar-nav li a {
+    cursor: hand;
+}
+
+.koef a{
+    cursor: pointer;
+}
+
+
+.koef a.selected {
+    background-color: lime;
+}
+
+.koef a.nonselected {
+    background-color: inherit;
+}
+
+input#bet-sum.form-control {
+    width: 200px;
+}
+
